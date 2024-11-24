@@ -1,0 +1,24 @@
+﻿  GenAlgorithmLearnsPong.cpp
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(69,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(72,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(111,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(181,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(182,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(183,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(183,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(244,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(246,47): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(247,47): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(280,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(311,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(377,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong\GenAlgorithmLearnsPong.cpp(377,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GenAlgorithmLearnsPong.vcxproj -> C:\Users\caleb\source\repos\GenAlgorithmLearnsPong\Debug\GenAlgorithmLearnsPong.exe
